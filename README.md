@@ -28,7 +28,7 @@ Trascinare tutti i file "*.hpprgm" nella cartella programmi della calcolatrice.
 ![Square and multiply](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/square-and-multiply-1.png?raw=true)
 ![Square and multiply](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/square-and-multiply-2.png?raw=true)
 ![Test fermat](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/test-fermat.png?raw=true)
-![Factor fermat](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/factorFermat.png?raw=true)
+![Factor fermat](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/factor-fermat.png?raw=true)
 
 
 
