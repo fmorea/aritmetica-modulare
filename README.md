@@ -12,8 +12,29 @@ Non solo ti permetteranno di guadagnare tempo durante l'esame, ma se vorrai legg
 La calcolatrice in questione si trova spesso in offerta su amazon warehouse a meno di 100 euro, consiglio il modello HP prime G2 (processore più potente e più RAM).
 Trascinare tutti i file "*.hpprgm" nella cartella programmi della calcolatrice.
 ## Alcuni screenshot
-
+![install](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/install.png?raw=true)
 ![Eulero](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/eulero.png?raw=true)
+![Eulero esplicito](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/eulero-esplicito-1.png?raw=true)
+![Eulero esplicito](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/eulero-esplicito-2.png?raw=true)
+![Potenza mod n](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/power-mod-n.png?raw=true)
+![Baby step giant step](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/baby-step-giant-step.png?raw=true)
+![Baby step giant step](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/baby-step-giant-step-2.png?raw=true)
+![Coprimes](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/coprimes.png?raw=true)
+![Esistenza radice](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/exists-sqrt-mod-p.png?raw=true)
+![ordine e radice primitiva](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/ordini-e-radici-primitive.png?raw=true)
+![Pollard](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/pollard-1.png?raw=true)
+![Pollard](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/pollard-2.png?raw=true)
+![Residui quadratici](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/residui-quadratici.png?raw=true)
+![Square and multiply](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/square-and-multiply-1.png?raw=true)
+![Square and multiply](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/square-and-multiply-2.png?raw=true)
+![Test fermat](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/test-fermat.png?raw=true)
+![Factor fermat](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/factorFermat.png?raw=true)
+
+
+
+
+
+
 
 
 
