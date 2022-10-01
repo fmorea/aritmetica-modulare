@@ -13,6 +13,9 @@ La calcolatrice in questione si trova spesso in offerta su amazon warehouse a me
 Trascinare tutti i file "*.hpprgm" nella cartella programmi della calcolatrice.
 ## Alcuni screenshot
 
+![Eulero](https://github.com/fmorea/aritmetica-modulare/blob/main/eulero.jpg?raw=true)
+
+
 
 ## Programmi di utilità
 Sono presenti anche due programmi di utilità per rimappare i tasti della hp prime ed evitare di dover scrivere i comandi, per attivarli occorre attivare la modalità utente della calcolatrice (con i tasti nell'ordine SHIFT, USER, SHIFT, USER)
