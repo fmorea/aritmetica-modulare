@@ -13,7 +13,7 @@ La calcolatrice in questione si trova spesso in offerta su amazon warehouse a me
 Trascinare tutti i file "*.hpprgm" nella cartella programmi della calcolatrice.
 ## Alcuni screenshot
 
-![Eulero](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/eulero.jpg?raw=true)
+![Eulero](https://github.com/fmorea/aritmetica-modulare/blob/main/tutorial/eulero.png?raw=true)
 
 
 
